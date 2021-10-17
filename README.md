@@ -1,2 +1,2 @@
 # Drum-Kit
-advanced DOM concepts
+advanced JS(DOM) concepts
